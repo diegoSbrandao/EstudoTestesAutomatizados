@@ -7,7 +7,7 @@ import java.util.List;
 
 public class PlanetConstants {
 
-    public static final Planet PLANET = new Planet("name", "climate", "terrain");
+    public static final Planet PLANET = new Planet("Tatooine0", "aridS2", "desert");
     public static final Planet INVALID_PLANET = new Planet("", "", "");
 
     public static final Planet TATOOINE = new Planet(1L, "Tatooine", "arid", "desert");
